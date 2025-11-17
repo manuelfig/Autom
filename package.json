@@ -1,0 +1,24 @@
+{
+  "name": "autom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelfig/Autom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manuelfig/Autom/issues"
+  },
+  "dependencies": {
+    "n8n": "^1.120.3"
+  }
+}
+
