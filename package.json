@@ -1,7 +1,7 @@
 {
   "name": "autom",
   "version": "1.0.0",
-  "description": "",
+  "description": "n8n on Render",
   "main": "index.js",
   "scripts": {
     "start": "n8n start"
