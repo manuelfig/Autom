@@ -18,6 +18,7 @@
     "url": "https://github.com/manuelfig/Autom/issues"
   },
   "dependencies": {
-    "n8n": "^1.119.2"
+    "n8n": "^1.119.2",
+    "sqlite3": "^5.1.7"
   }
 }
